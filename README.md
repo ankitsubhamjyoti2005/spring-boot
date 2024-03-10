@@ -6,7 +6,7 @@ Welcome to the Java Spring Boot Backend Projects repository! This repository con
 
 ## Projects Included
 
-1. **Project A: Ticket booking App **
+1. **Project A: Ticket booking App**
 ## Prerequisites
 
 Before diving into these projects, ensure you have the following installed:
