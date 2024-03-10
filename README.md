@@ -6,15 +6,7 @@ Welcome to the Java Spring Boot Backend Projects repository! This repository con
 
 ## Projects Included
 
-1. **Project A: E-commerce Platform**
-   - *Description:* A robust backend system for an e-commerce platform, handling product management, user authentication, and order processing.
-
-2. **Project B: Task Management API**
-   - *Description:* A RESTful API for task management, featuring CRUD operations for tasks, user authentication, and task categorization.
-
-3. **Project C: Social Media Platform**
-   - *Description:* Backend services for a social media platform, including user profiles, posts, comments, and friend requests.
-
+1. **Project A: Ticket booking App **
 ## Prerequisites
 
 Before diving into these projects, ensure you have the following installed:
