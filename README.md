@@ -21,4 +21,4 @@ Before diving into these projects, ensure you have the following installed:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/java-spring-boot-backend.git
-   cd java-spring-boot-backend
+   cd spring-boot
