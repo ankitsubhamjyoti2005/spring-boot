@@ -3,10 +3,10 @@ import java.net.*;
 
 public class server{
     public void run(){
-        int port = 8010;
+        int port = 1800;
         try{
             ServerSocket socket = new ServerSocket(port);
-            socket.setSoTimeout(10000);
+            socket.setSoTimeout(1000000);
             while (true) {
                 try{
                     System.out.println("server is lishen on port"+port);
@@ -32,3 +32,4 @@ public class server{
         }
     }
 }
+

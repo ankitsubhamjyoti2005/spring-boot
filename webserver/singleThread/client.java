@@ -3,14 +3,14 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
-import java.net.Inet4Address;
+// import java.net.Inet4Address;
 import java.net.InetAddress;
 import java.net.Socket;
-import java.nio.Buffer;
+// import java.nio.Buffer;
 
 public class client {
     public static void main(String[] args) {
-        int port = 8010;
+        int port = 1800;
         try {
             InetAddress address = InetAddress.getByName("localhost");
             Socket socket = new Socket(address,port);
@@ -28,3 +28,5 @@ public class client {
         }
     }
 }
+
+
