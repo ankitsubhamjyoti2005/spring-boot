@@ -36,7 +36,7 @@ public class client{
     }
     
     public static void main(String[] args){
-        Client client = new Client();
+        client client = new client();
         for(int i=0; i<100; i++){
             try{
                 Thread thread = new Thread(client.getRunnable());
